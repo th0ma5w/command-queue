@@ -28,6 +28,10 @@ Any Python compatible install that is compatible with the Python libraries used 
 
 Good question! I wrote it as a proof-of-concept at my job, and it turns out that this concept is actually implemented in some of our other tools, so this wasn't needed. Hopefully you can find some use for it, let me know, or at least if you are learning Python you can take a look at some of the things that it does.
 
+## Is it secure?
+
+No, not at all, in fact this opens up arbitrary command execution over plain text HTTP using the priviledges of the user running the server.
+
 ## Support?
 
 Write me note on here, but otherwise, I am not responsible for any of it, and you use it at your own risk, and I make no claims as to its suitability for any task.
