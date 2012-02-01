@@ -26,7 +26,7 @@ Any Python compatible install that is compatible with the Python libraries used 
 
 ## Why did you write this and why is it on GitHub?
 
-Good question! I wrote it as a proof-of-concept at my job, and it turns out that this concept is actually implement in some of our other tools, so this wasn't needed. Hopefully you can find some use for it, let me know, or at least if you are learning Python you can take a look at some of the things that it does.
+Good question! I wrote it as a proof-of-concept at my job, and it turns out that this concept is actually implemented in some of our other tools, so this wasn't needed. Hopefully you can find some use for it, let me know, or at least if you are learning Python you can take a look at some of the things that it does.
 
 ## Support?
 
